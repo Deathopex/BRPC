@@ -1,2 +1,4 @@
-# BRPC
-A client-side fabric mod that prevents hacked client usage
+# BRPClient
+Клиентский мод fabric созданный для проекта BedrockRP - Новая глава. Добавляет различные аспекты, обеспечивает частичную защиту от эксплоитинга.
+
+A client-side fabric mod for BedrockRP Server. Prevents hacked client usage, adds some roleplay and other cool stuff.
