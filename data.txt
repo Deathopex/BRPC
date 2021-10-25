@@ -1,2 +1,2 @@
 1.1
-Wurst,Meteor,Sigma,Bleach,Inertia,Hack,Kami,WWE,Future,Baritone,Xray,Dupe,Flymod,Numa
+Wurst,Meteor,Sigma,Bleach,Inertia,Hack,Kami,WWE,Future,Baritone,Xray,Dupe,Flymod,Numa,Fly
